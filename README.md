@@ -1,18 +1,18 @@
-# 🏦 Prasun's Bank of India - CLI Banking System
+# CLI Banking System
 
 ## Overview
 This project is a **Command Line Interface (CLI) based Banking System** developed in **C++** using **Object-Oriented Programming (OOP)** principles.  
 It allows **account holders** to manage their bank accounts, perform transactions, and view statements. It also includes a **branch manager module** with administrative privileges.
 
 ## Features
-✅ User Registration & Login  
-✅ Multiple Account Management (Savings, Checking/Current)  
-✅ Deposit and Withdrawal Operations  
-✅ Transaction Statements for Each Account  
-✅ Password Management for Account Holders  
-✅ Branch Manager Login with Admin Controls  
-✅ Secure Credential Verification  
-✅ Modular, Scalable, and Optimized Code Structure
+- User Registration & Login  
+- Multiple Account Management (Savings, Checking/Current)  
+- Deposit and Withdrawal Operations  
+- Transaction Statements for Each Account  
+- Password Management for Account Holders  
+- Branch Manager Login with Admin Controls  
+- Secure Credential Verification  
+- Modular, Scalable, and Optimized Code Structure
 
 ## How to Run
 1. Ensure you have a C++ compiler (like `g++`) installed.
